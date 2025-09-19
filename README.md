@@ -22,7 +22,7 @@ Este repositório apresenta um **dashboard interativo de análise de vendas** pa
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Python 3.x** – para manipulação e análise de dados.  
+- **Python 3** – para manipulação e análise de dados.  
 - **Pandas** – processamento e validação dos dados.  
 - **CSVs** – `vendas_clinicas_odontologicas.csv` e `tabela_precos.csv` para armazenamento dos dados.  
 - **Dashboard em PDF** – `dashboard_vendas.pdf`; facilmente expansível para **Tableau**, **Power BI** ou **Streamlit**.
@@ -38,7 +38,7 @@ Este projeto é ideal para **estudos de análise de dados, Business Intelligence
 ## 📌 Observações
 
 - Todos os dados são **simulados** para fins educativos e de prática em análise de dados.  
-- A lógica de cálculo e validação está disponível no script `carregar_e_validar_dados.py`.  
+- A lógica de cálculo e validação está disponível no script `dados_vendas.py`.  
 - O dashboard pode ser facilmente adaptado para outras plataformas de BI ou dashboards interativos.
 
 ---
