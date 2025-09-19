@@ -1,0 +1,11 @@
+Data,ID_Clinica,Nome_Clinica,Tipo_Procedimento,Descricao_Procedimento,Unidades_Vendidas,Receita,ID_Paciente
+2024-09-18,CL05,Clínica Sorriso Oeste,Aparelho Ortodôntico,Instalação de aparelho,2,5000.00,PAT000056
+2024-09-18,CL05,Clínica Sorriso Oeste,Clareamento,Clareamento a laser,2,1600.00,PAT000020
+2024-09-19,CL01,Clínica Sorriso Norte,Clareamento,Clareamento a laser,2,1600.00,PAT000690
+2024-09-19,CL02,Clínica Sorriso Sul,Implante,Implante dentário,1,3000.00,PAT000047
+2024-09-20,CL02,Clínica Sorriso Sul,Limpeza,Limpeza dental profunda,2,400.00,PAT000771
+2024-09-21,CL03,Clínica Sorriso Centro,Consulta Inicial,Consulta de avaliação inicial,1,150.00,PAT000123
+2024-09-22,CL04,Clínica Sorriso Leste,Extração,Extração de dente,3,750.00,PAT000456
+2024-09-23,CL01,Clínica Sorriso Norte,Restauração,Restauração com resina,2,600.00,PAT000789
+2024-09-24,CL05,Clínica Sorriso Oeste,Implante,Implante dentário,3,9000.00,PAT000234
+2024-09-25,CL02,Clínica Sorriso Sul,Clareamento,Clareamento a laser,1,800.00,PAT000567
